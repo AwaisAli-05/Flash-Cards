@@ -84,11 +84,17 @@ Add progress tracking
 Add quiz mode
 Store flashcards using local storage or a database
 Improve mobile responsiveness
-Author
 
-Awais Ali
+### Author
+ Muhammad Awais
 
-License
+    Cybersecurity Student
+    React Frontend Developer
+
+GitHub: https://github.com/AwaisAli-05
+
+linkedin: https://www.linkedin.com/in/muhammad-awais-a48259328/
+### License
 
 This project is open source and available for learning and educational purposes.
 
