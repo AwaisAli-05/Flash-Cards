@@ -21,7 +21,7 @@ A simple and interactive flashcard application built with React.js. The applicat
 - Create React App
 
 ## Project Structure
- 
+``` text
 react-flashcards/
 ├── public/
 │   ├── favicon.ico
@@ -83,6 +83,7 @@ Add progress tracking
 Add quiz mode
 Store flashcards using local storage or a database
 Improve mobile responsiveness
+```
 
 ### Author
  Muhammad Awais
