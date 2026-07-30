@@ -21,8 +21,7 @@ A simple and interactive flashcard application built with React.js. The applicat
 - Create React App
 
 ## Project Structure
-
-```text
+``` text
 react-flashcards/
 ├── public/
 │   ├── favicon.ico
@@ -84,17 +83,17 @@ Add progress tracking
 Add quiz mode
 Store flashcards using local storage or a database
 Improve mobile responsiveness
-Author
+```
 
-Awais Ali
+### Author
+ Muhammad Awais
 
-License
+    Cybersecurity Student
+    React Frontend Developer
+
+GitHub: https://github.com/AwaisAli-05
+
+linkedin: https://www.linkedin.com/in/muhammad-awais-a48259328/
+### License
 
 This project is open source and available for learning and educational purposes.
-
-
-After saving the file, run:
-
-```bash
-git add README.md
-git commit -m "Add project documentation"
