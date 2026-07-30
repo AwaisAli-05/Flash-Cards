@@ -1,3 +1,4 @@
+![React Flashcards](./public/home.png)
 # React Flashcards
 
 A simple and interactive flashcard application built with React.js. The application allows users to view questions on flashcards and click on them to reveal the answers with a smooth flip animation.
